@@ -25,8 +25,6 @@ import {
 
 import {BsClipboardData} from 'react-icons/bs'
 
-import SideDashBoard from '../SideDashBoard'
-
 const data = [
   {
     group_name: 'Jan',
@@ -104,9 +102,6 @@ const DataFormatter = number => {
 const DashBoardView = () => (
   <>
     <div className="dashboardMainContainer">
-      <div>
-        <SideDashBoard />
-      </div>
       <div className="dashBoardDetailsContainer">
         <div className="searchAndHeadingContainer">
           <h1 className="helloHeading">Hello Shahrukh 👋</h1>
