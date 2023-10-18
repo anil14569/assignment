@@ -1,0 +1,131 @@
+.sideDashBoardContainer {
+  background-color: #002159;
+  background-size: cover;
+  min-height: 100vh;
+  flex-grow: 1;
+  width: 300px;
+  max-height: 550px;
+}
+
+.DashBoardHeading {
+  color: #fff;
+  font-family: roboto;
+  padding-left: 20px;
+}
+
+.dashBoardIcon {
+  color: #fff;
+  font-size: 30px;
+}
+
+.dashBoardHeadingContainer {
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+}
+
+.listItem {
+  list-style-type: none;
+  display: flex;
+
+  align-items: center;
+  background-color: #4a6184;
+
+  border-radius: 10px;
+
+  margin-bottom: 30px;
+  margin-right: 20px;
+  padding-left: 20px;
+}
+
+.extra {
+  font-size: 20px;
+}
+
+.heading {
+  padding-left: 10px;
+  align-self: flex-start;
+}
+
+.ulList {
+  display: flex;
+  flex-direction: column;
+}
+
+.arrow {
+  font-size: 20px;
+  align-self: center;
+  margin-left: 55px;
+}
+
+.arrowContainer {
+  align-self: flex-end;
+}
+
+.product {
+  margin-left: 80px;
+}
+
+.customer {
+  margin-left: 60px;
+}
+
+.promote {
+  margin-left: 80px;
+}
+
+.income {
+  margin-left: 85px;
+}
+
+.help {
+  margin-left: 105px;
+}
+
+.background {
+  background-color: transparent;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.userDescription {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: #4a6184;
+  border-radius: 10px;
+}
+
+.name {
+  color: #fff;
+  text-align: center;
+}
+
+.des {
+  color: #c0c4c2;
+  text-align: center;
+}
+
+.down {
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.nameDecContainer {
+  align-self: center;
+  justify-content: center;
+
+  margin-left: 10px;
+  padding: 0px;
+  width: 100%;
+}

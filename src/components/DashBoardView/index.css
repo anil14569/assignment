@@ -1,0 +1,294 @@
+.dashboardMainContainer {
+  display: flex;
+  background-color: #e3e5e6;
+  background-size: cover;
+}
+
+.input {
+  color: #c0c4c2;
+  font-family: roboto;
+  height: 35px;
+  border: none;
+  width: 220px;
+  border: 0px solid #fff;
+  font-size: 20px;
+}
+
+.searchContainer {
+  background-color: #fff;
+  height: auto;
+}
+
+.searchIcon {
+  color: #c0c4c2;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.searchAndHeadingContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 40px;
+  height: 30px;
+  margin-top: 40px;
+}
+.dashBoardDetailsContainer {
+  width: 100%;
+}
+
+.helloHeading {
+  color: black;
+  font-family: roboto;
+  font-size: 20px;
+
+  padding-left: 20px;
+}
+
+.listCardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cardItem {
+  background-color: #fff;
+  background-size: cover;
+  display: flex;
+  width: 260px;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.earningContainer {
+  background-color: #c0f0d1;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 60%;
+  margin-left: 20px;
+}
+
+.icon {
+  color: #059649;
+  font-size: 50px;
+}
+
+.earningHeading {
+  color: #c0c4c2;
+}
+
+.dolorMoney {
+  color: #000;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.upArrow {
+  color: #059649;
+  font-weight: 700;
+}
+
+.thisMonth {
+  color: #000;
+  font-weight: 400;
+  font-family: roboto;
+}
+
+.detailsContainer {
+  padding-left: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+.downArrow {
+  color: red;
+  font-size: 500;
+}
+
+.OrdersContainer {
+  background-color: #d1c8db;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 60%;
+  margin-left: 20px;
+}
+.icon2 {
+  color: #a570e0;
+  font-size: 50px;
+}
+
+.balanceContainer {
+  background-color: #aeebf5;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 60%;
+  margin-left: 20px;
+}
+.icon3 {
+  color: #1934bd;
+  font-size: 50px;
+}
+
+.totalSalesContainer {
+  background-color: #f5abea;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 60%;
+  margin-left: 20px;
+}
+.icon4 {
+  color: #e32b99;
+  font-size: 50px;
+}
+
+.chartsContainer {
+  background-color: #fff;
+  background-size: cover;
+  height: 210px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  width: 60%;
+  border-radius: 10px;
+}
+
+.overViewHeading {
+  color: #000;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.monthlyDes {
+  color: #c0c4c2;
+}
+
+.overViewContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.layoutsContainer {
+  display: flex;
+}
+
+.dropdown {
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+  border: 0px;
+  color: #c0c4c2;
+}
+
+.pieChatContainer {
+  background-color: #fff;
+  background-size: cover;
+  height: 210px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  width: 30%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.secondContainer {
+  display: flex;
+}
+
+.pieChatCon {
+  align-self: center;
+}
+
+.productSellContainer {
+  background-color: #fff;
+  background-size: cover;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  height: 38%;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.firstContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.thirdContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.productNameContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stockDetailsContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 40%;
+}
+
+.padding {
+  padding-left: 30px;
+}
+
+.images {
+  width: 80px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.lastContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.imagesAndDes {
+  display: flex;
+  align-items: center;
+}
+
+.abstact {
+  color: #000;
+  font-family: roboto;
+  padding-left: 20px;
+}
+
+.description {
+  color: #c0c4c2;
+  font-family: roboto;
+}
+
+.stock {
+  color: #000;
+  font-family: roboto;
+}
+
+.price {
+  color: #000;
+  font-family: roboto;
+  font-weight: 600;
+}
